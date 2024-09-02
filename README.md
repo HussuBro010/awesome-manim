@@ -33,6 +33,9 @@
   - [Website](https://www.brithemathguy.com/)
 - byyytes
   - [YouTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
+- Calculus And Cosmos
+  - [Youtube](https://www.youtube.com/@calculus_and_cosmos2807)
+  - [Github](https://github.com/HussuBro010/MathVizAnimations)
 - CodingWithMagga (German)
   - [YouTube](https://www.youtube.com/channel/UCjlzef-PolOD__Q1VMWznqw)
   - [Website](https://codingwithmagga.com/)
